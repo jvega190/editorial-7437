@@ -390,9 +390,9 @@
                     "contextmenu": false,
                     "templates" : [
                         {
-                          title: 'Date modified example',
-                          description: 'Adds a timestamp indicating the last time the document modified.',
-                          content: '<p>Last Modified: <time class="mdate">This will be replaced with the date modified.</time></p>'
+                          "title": "Date modified example",
+                          "description": "Adds a timestamp indicating the last time the document modified.",
+                          "content": "<p>Last Modified: <time class="mdate">This will be replaced with the date modified.</time></p>"
                         }
                     ]
                 }
