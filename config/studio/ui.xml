@@ -379,7 +379,8 @@
                     "autoresize_on_init": false,
                     "autoresize_bottom_margin": 0,
                     "menu": {
-                        "tools": { "title": "Tools", "items": "tinymcespellchecker code acecode wordcount" }
+                        "tools": { "title": "Tools", "items": "tinymcespellchecker code acecode wordcount" },
+                        "insert": { "title": "Insert", "items": "image link media template codesample inserttable | charmap hr | pagebreak nonbreaking anchor | insertdatetime" }
                     },
                     "automatic_uploads": true,
                     "file_picker_types":  "image media file",
