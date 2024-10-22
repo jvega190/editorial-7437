@@ -388,7 +388,7 @@
                     "content_css": [],
                     "content_style": "body {}",
                     "contextmenu": false,
-                    templates : [
+                    "templates" : [
                         {
                           title: 'Date modified example',
                           description: 'Adds a timestamp indicating the last time the document modified.',
