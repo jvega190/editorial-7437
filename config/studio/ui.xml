@@ -384,7 +384,6 @@
                     "automatic_uploads": true,
                     "file_picker_types":  "image media file",
                     "paste_data_images": true,
-                    "templates": [],
                     "content_css": [],
                     "content_style": "body {}",
                     "contextmenu": false,
