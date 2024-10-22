@@ -363,7 +363,7 @@
                 {
                     "menubar": true,
                     "theme": "silver",
-                    "plugins": "preview searchreplace autolink directionality visualblocks visualchars fullscreen image link media template codesample table charmap pagebreak nonbreaking anchor insertdatetime advlist lists wordcount help acecode",
+                    "plugins": "preview searchreplace autolink directionality visualblocks visualchars fullscreen image link media template codesample table charmap pagebreak nonbreaking anchor insertdatetime advlist lists wordcount help acecode template",
                     "extended_valid_elements": "",
                     "valid_children": "",
                     "toolbar1": "blocks | bold italic strikethrough forecolor backcolor | link | alignleft aligncenter alignright alignjustify | numlist bullist outdent indent | removeformat",
@@ -387,7 +387,14 @@
                     "templates": [],
                     "content_css": [],
                     "content_style": "body {}",
-                    "contextmenu": false
+                    "contextmenu": false,
+                    templates : [
+                        {
+                          title: 'Date modified example',
+                          description: 'Adds a timestamp indicating the last time the document modified.',
+                          content: '<p>Last Modified: <time class="mdate">This will be replaced with the date modified.</time></p>'
+                        }
+                    ]
                 }
             ]]>
 					</tinymceOptions>
