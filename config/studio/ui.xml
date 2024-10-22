@@ -387,7 +387,7 @@
                     "content_css": [],
                     "content_style": "body {}",
                     "contextmenu": false,
-                    "templates" : [{ "title": "Date modified example", "description": "Adds a timestamp indicating the last time the document modified.", "content": "<p>Last Modified: <time class="mdate">This will be replaced with the date modified.</time></p>"}]
+                    "templates": [{ "title": "Template 1", "description": "Template 1 description", "content": "Template 1 content" }]
                 }
             ]]>
 					</tinymceOptions>
