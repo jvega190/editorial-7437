@@ -13,8 +13,8 @@
   <folder-name/>
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-  <lastModifiedDate>2024-10-23T14:58:29.365Z</lastModifiedDate>
-  <lastModifiedDate_dt>2024-10-23T14:58:29.365Z</lastModifiedDate_dt>
+  <lastModifiedDate>2024-10-23T14:58:32.778Z</lastModifiedDate>
+  <lastModifiedDate_dt>2024-10-23T14:58:32.778Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;
 &lt;p&gt;Template 1 content&lt;/p&gt;</hero_text_html>
@@ -27,12 +27,7 @@
       <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
       <disableFlattening>false</disableFlattening>
     </item>
-    <item datasource="features">
-      <key>/site/components/features/0f95b6ea-32c0-4c91-bc5d-3e3e13cfcd6d.xml</key>
-      <value>Smile</value>
-      <include>/site/components/features/0f95b6ea-32c0-4c91-bc5d-3e3e13cfcd6d.xml</include>
-      <disableFlattening>false</disableFlattening>
-    </item>
+
     <item datasource="features" inline="true">
       <key>310b0c87-c3ca-4da0-4aa2-7002a318d7ce</key>
       <value>Download</value>
