@@ -34,7 +34,7 @@
           <@crafter.div $field="hero_text_html">
             ${contentModel.hero_text_html}
           </@crafter.div>
-          <@crafter.div  $field="textArea_t">
+          <@crafter.div $field="textArea_t">
             ${contentModel.textArea_t}
           </@crafter.div>
         </div>
