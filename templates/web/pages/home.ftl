@@ -34,6 +34,9 @@
           <@crafter.div $field="hero_text_html">
             ${contentModel.hero_text_html}
           </@crafter.div>
+          <@crafter.div  $field="textArea_t">
+            ${contentModel.textArea_t}
+          </@crafter.div>
         </div>
         <span class="image object">
           <@crafter.img $field="hero_image_s" src=(contentModel.hero_image_s!"") alt=""/>
