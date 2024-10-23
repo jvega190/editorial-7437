@@ -35,9 +35,7 @@
             ${contentModel.hero_text_html}
           </@crafter.div>
           <h3>Text area field</h3>
-          <@crafter.div $field="textArea_t" style="white-space: pre-wrap; word-wrap: break-word;">
-            ${contentModel.textArea_t}
-          </@crafter.div>
+          <@crafter.div $field="textArea_t" style="white-space: pre-wrap; word-wrap: break-word;">${contentModel.textArea_t}</@crafter.div>
         </div>
         <span class="image object">
           <@crafter.img $field="hero_image_s" src=(contentModel.hero_image_s!"") alt=""/>
