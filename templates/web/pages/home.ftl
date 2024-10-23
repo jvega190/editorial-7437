@@ -34,6 +34,7 @@
           <@crafter.div $field="hero_text_html">
             ${contentModel.hero_text_html}
           </@crafter.div>
+          <h3>Text area field</h3>
           <@crafter.div $field="textArea_t">
             ${contentModel.textArea_t}
           </@crafter.div>
