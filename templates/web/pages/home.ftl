@@ -35,7 +35,7 @@
             ${contentModel.hero_text_html}
           </@crafter.div>
           <h3>Text area field</h3>
-          <@crafter.pre $field="textArea_t">
+          <@crafter.pre $field="textArea_t" style="white-space: pre-wrap; word-wrap: break-word;">
             ${contentModel.textArea_t}
           </@crafter.pre>
         </div>
